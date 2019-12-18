@@ -69,8 +69,8 @@
 
 ```json
 {
-	"name": "Slave",
-	"age": 24
+    "name": "Slave",
+    "age": 24
 }	
 ```
 
